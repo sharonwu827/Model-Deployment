@@ -58,3 +58,6 @@ price_pipe = Pipeline([
     ('categorical_encoder', OrdinalEncoder(
         encoding_method='ordered', variables=CATEGORICAL_VARS)),
 ])
+
+
+price_pipe.fit(x,y)
