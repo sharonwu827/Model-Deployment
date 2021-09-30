@@ -7,3 +7,18 @@
 - Plan for extensibility: If you are likely to be updating your models on a regular basis, you need to think carefully about how you will do this from the beginning.
 - Modularity: To the largest extent possible, aim to reuse preprocessing and feature engineering code from the research environment in the production environment.
 - Testing: Plan to spend significantly more time on testing your machine learning applications, because they require additional types of testing
+
+
+
+## Testing
+
+
+## Deployment
+- Shadow Mode
+
+
+
+## Monitoring and Alerting
+- laaS
+- PaaS
+
