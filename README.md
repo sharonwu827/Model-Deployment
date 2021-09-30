@@ -10,3 +10,7 @@ e software or other products.
 for data analysis, pre-processing and the development of machine learning models.
   
 - The production environment is a real time setting, with running programs and hardware setups that allow the organizations' daily operations. In the production environment is where the machine learning models are actually available for business use. Through the production environment, we make machine learning models available to provide.
+
+
+## Docker
+- Build once and deploy everywhere
