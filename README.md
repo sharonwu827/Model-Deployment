@@ -1,4 +1,5 @@
 # Model Deployment
+The process for making models available in production env, where they can provide predictions to other software systems.
 
 ## Key Principles For Designing ML System
 
